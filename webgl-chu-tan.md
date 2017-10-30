@@ -1,7 +1,7 @@
 ```js
 <body onload="start()">
   <canvas id="canvas" width="640" height="480">
-    Your browser doesn\'t appear to support the HTML5 <code>&lt;canvas&gt;</code> element.
+    Your browser doesnot appear to support the HTML5 <code>&lt;canvas&gt;</code> element.
   </canvas>
 </body>
 ```
